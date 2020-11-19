@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ColorPsy</string>
+    <string name="click_here_to_exit">Click here to Exit</string>
+    <string name="image_description">Image Description</string>
+</resources>
